@@ -1,3 +1,5 @@
 This is my first file.
 
 I have changed some lines to see the difference.
+
+This is another line that was added by me.
